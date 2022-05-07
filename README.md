@@ -2,6 +2,9 @@
 ## Hi Guys! This is Ahmad.
 
 <!-- **ahmadbinraees/ahmadbinraees** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+[![Portfolio](https://img.shields.io/badge/-Portfolio-red?style=flat&logo=appveyor&logoColor=white)](https://ahmadullahtonmoy.github.io/web-portfolio/)
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/ahmadbinraees)
+<!-- [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)] -->
 
 <!-- Here are some ideas to get you started: -->
 
